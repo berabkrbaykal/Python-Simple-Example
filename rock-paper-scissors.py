@@ -11,7 +11,7 @@ i = 0
 
 print("")
 
-# print('Oyun sürekli devam ediyor. Oyunu bitirmek istiyorsanız lütfen q tuşuna basın')
+print('Oyun 3 turdan oluşmaktadır')
 
 while (i < 3):
 
@@ -50,9 +50,7 @@ while (i < 3):
             print(f'Sizin seçtiğiniz Makas Yapay Zekanın seçtiği {ai} ve kazanan yok\n')
         
         i += 1
-     
 
-# print('Oyun bitti')
 
 print('\n\t\tSONUÇLAR\t\t\n')
 
